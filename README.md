@@ -1,3 +1,11 @@
+## Kubernetes features
+
+- Manage, deploy, and update containers via the `kubectl` CLI.
+- Configure deployments with YAML a la CloudFormation.
+- Automated load balancing.
+- Manage secrets.
+- Declarative.
+
 ## Resources
 
 - Glossary: [What is Kubernetes?](https://www.vmware.com/topics/glossary/content/kubernetes)
