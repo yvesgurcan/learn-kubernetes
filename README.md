@@ -1,5 +1,3 @@
-🚢 Resources and examples to get started with Kubernetes.
-
 ## Resources
 
 - Glossary: [What is Kubernetes?](https://www.vmware.com/topics/glossary/content/kubernetes)
